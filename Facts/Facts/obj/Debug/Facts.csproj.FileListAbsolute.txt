@@ -1,0 +1,13 @@
+C:\Users\HELP\source\repos\Facts\Facts\bin\Debug\Facts.exe.config
+C:\Users\HELP\source\repos\Facts\Facts\bin\Debug\Facts.exe
+C:\Users\HELP\source\repos\Facts\Facts\bin\Debug\Facts.pdb
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.csprojAssemblyReference.cache
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.Form1.resources
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.Properties.Resources.resources
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.csproj.GenerateResource.cache
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.csproj.CoreCompileInputs.cache
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.exe
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.pdb
+C:\Users\HELP\source\repos\Facts\Facts\bin\Debug\RestSharp.dll
+C:\Users\HELP\source\repos\Facts\Facts\bin\Debug\RestSharp.xml
+C:\Users\HELP\source\repos\Facts\Facts\obj\Debug\Facts.csproj.CopyComplete
